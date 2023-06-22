@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b146776-09e0-4804-859e-614082e62fb7" name="test">
+        <fileTransfer accessType="SFTP" host="ssh.virtaicloud.com" port="30022" sshConfigId="5089bca1-e19a-4250-9783-1abe802256d8" sshConfig="zxc123cc@root@ssh-c2f8e6f7f5a740e5b753357c9bb2c664.default@ssh.virtaicloud.com:30022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

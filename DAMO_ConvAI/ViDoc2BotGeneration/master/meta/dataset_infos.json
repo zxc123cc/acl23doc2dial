@@ -1,0 +1,1 @@
+{"ViDoc2BotGeneration":{"features":{"query":{"_type":"Value"},"rerank":{"_type":"Value"},"response":{"_type":"Value"}},"splits":{"train":{"name":"train","dataset_name":"ViDoc2BotGeneration"}}}}

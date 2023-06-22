@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zxc123cc@root@ssh-c2f8e6f7f5a740e5b753357c9bb2c664.default@ssh.virtaicloud.com:30022 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="test">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zxc123cc@root@ssh-c2f8e6f7f5a740e5b753357c9bb2c664.default@ssh.virtaicloud.com:30022 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/gemini/code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

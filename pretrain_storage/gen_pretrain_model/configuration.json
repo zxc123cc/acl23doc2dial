@@ -1,0 +1,23 @@
+{
+  "framework": "pytorch",
+  "task": "document-grounded-dialog-generate",
+  "pipeline": {
+    "type": "document-grounded-dialog-generate"
+  },
+  "model": {
+    "type": "doc2bot",
+    "task": "document-grounded-dialog-generate",
+    "model_dir": "",
+    "device": "cpu",
+    "lazy_load": true,
+    "seed": 999
+  },
+  "language": "ch",
+  "top_k": 2,
+  "query_sequence_length": 195,
+  "rerank_source_sequence_length": 512,
+  "source_sequence_length": 512,
+  "target_sequence_length": 512,
+  "num_beams": 3,
+  "no_repeat_ngram_size": 3
+}
